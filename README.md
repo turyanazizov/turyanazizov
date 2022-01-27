@@ -1,7 +1,6 @@
 ## Hi there 👋 My name is Turyan
 
-### <img src="https://text.media.giphy.com/v1/media/giphy.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6InN1cGVyIiwidGV4dCI6IkhpIiwiaWF0IjoxNjQzMjkxOTg1fQ.LQuxQiVy5_y6pK3tSEO6ZWtSGjLU79AvlEsJFVyavq4&cid=3eb8bcd330eebe1dc6833b12f7449a1cbfab491441de8708&dynamic_style=super&rid=giphy.webp&ct=t" width="100px"/>I am Backend developer
-
+# <img src="https://text.media.giphy.com/v1/media/giphy.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6InN1cGVyIiwidGV4dCI6IkhpIiwiaWF0IjoxNjQzMjkxOTg1fQ.LQuxQiVy5_y6pK3tSEO6ZWtSGjLU79AvlEsJFVyavq4&cid=3eb8bcd330eebe1dc6833b12f7449a1cbfab491441de8708&dynamic_style=super&rid=giphy.webp&ct=t" width="100px"/>I am Backend developer <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" />
 #### I'm Turyan from Azerbaijan and I'am coding.I realy enjoy learning languages and frameworks like Python,Javascript,Flask,Django.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="360px" height="280px"/>
